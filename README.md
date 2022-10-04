@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRaaPeixoto&labelColor=%23ba68c8&countColor=%23263759&style=plastic)
+
 <div align="center"> <img height="180em" src="https://iili.io/Lb11cP.md.png" alt="Lb11cP.md.png" border="0"></div>
  <h1 align="center">Hello World  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raísa Cadete </h1> 
 
