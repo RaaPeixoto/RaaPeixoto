@@ -1,7 +1,7 @@
 <div align="center"> <img height="180em" src="https://iili.io/Lb11cP.md.png" alt="Lb11cP.md.png" border="0"></div>
  <h1 align="center">Hello World  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raísa Cadete </h1> 
 
-
+<h3 align="left">📈 GitHub stats:</h3>
 <div align="center">
 <a href="https://github.com/Raapeixoto">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raapeixoto&layout=compact&langs_count=7&theme=dracula"/>
